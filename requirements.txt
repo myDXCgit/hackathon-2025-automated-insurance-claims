@@ -1,0 +1,6 @@
+Flask
+azure-identity
+azure-keyvault-secrets
+openai
+azure-cosmos
+python-dotenv
